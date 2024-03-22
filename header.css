@@ -1,6 +1,6 @@
 nav {
   width: 100%;
-  background-color: lightyellow;
+  background-color: lightblue;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: space-between;
@@ -26,7 +26,7 @@ nav img {
 }
 
 .contact a:hover {
-  color: darkyellow;
+  color: darkblue;
 }
 
 @media (max-width: 500px) {
